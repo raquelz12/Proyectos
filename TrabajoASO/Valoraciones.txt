@@ -1,0 +1,8 @@
+Juan;5;0;5
+Marcos;2;4;3
+Adela;5;0;5
+Lucía;2;4;3
+Rocío;4;4;0
+Ana;4;4;0
+Rosana;0;2;5
+Manolo;4;0;3

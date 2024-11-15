@@ -1,0 +1,3 @@
+A partir de aquí se escribirán todos los usuarios registrados, siguiendo el siguiente formato. login;password
+1;1
+2;2
